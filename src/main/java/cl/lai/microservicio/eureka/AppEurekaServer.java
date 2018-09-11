@@ -20,6 +20,8 @@ public class AppEurekaServer
     public static void main( String[] args )
     {
     	SpringApplication.run(AppEurekaServer.class, args);
+     	//Abrir el browser e introduzca el siguiente link: http://localhost:8260
+
     }
     
     @Autowired
